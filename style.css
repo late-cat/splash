@@ -19,7 +19,7 @@ video {
     width: 100vw;
     height: 100vh;
     transform: translate(-50%, -50%);
+    /* Change 'cover' to 'contain' if you want the full video visible with possible bars */
     object-fit: cover;
-    /* Ensures video covers the screen without distortion. Change to 'contain' if original resolution with bars is preferred. */
     z-index: 0;
 }

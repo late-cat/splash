@@ -1,1 +1,5 @@
-video.webm
+# Exclude video files (users will add their own)
+*.webm
+*.mp4
+*.mov
+*.avi
