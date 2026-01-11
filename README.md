@@ -14,6 +14,8 @@ cd wallX
 - Place your video file in the `wallX` folder
 - Rename it to **`video.webm`**, **`video.mp4`**, **`video.mov`**, or **`video.ogg`**
 
+> 📺 **Example:** [Download F1 Demo Video](https://drive.google.com/file/d/1lkoq1xW8YVgNMS5TR-jv6lyhDvwgKVWR/view?usp=drive_link)
+
 ### 3. Set Up in Plash
 1. Click the **Plash icon** in the menu bar
 2. Click **"Add Website..."**
